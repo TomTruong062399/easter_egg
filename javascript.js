@@ -1,6 +1,6 @@
 var map = L.map('map').setView([0,0], 2);
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoidG9tdHJ1b25nMDYyMzk5IiwiYSI6ImNraG13cWVscTB0bWQzNW85YWNrdDN1cHkifQ.yHyazdWzemx0rGc7560vWw', {
-    attribution: '<a href="anotha_egg.jpg">👀</a>',
+    attribution: '<a href="anotha_egg.jpg">🐇</a>',
     maxZoom: 20,
     id: 'mapbox/streets-v11',
     tileSize: 512,
